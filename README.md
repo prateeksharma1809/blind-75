@@ -9,3 +9,6 @@
 
 ## Stack
  - https://leetcode.com/problems/valid-parentheses/description/ -> ValidParentheses.java
+ 
+## Two Pointer
+ - https://leetcode.com/problems/valid-palindrome/description/ -> ValidPalindrome.java
