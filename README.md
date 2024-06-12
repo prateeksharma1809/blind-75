@@ -15,3 +15,6 @@
  
 ## Sliding Window
  - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/ -> BuySellStock.java
+ 
+## Binary Search
+	- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ -> MinElementInRotatedSortedArray.java
