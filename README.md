@@ -22,3 +22,9 @@
 
 ## Linked List
 	- https://leetcode.com/problems/merge-two-sorted-lists/description/ -> MergeLinkedList.java
+	
+## Trees
+	- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/ -> LowestCommonAncestor.java
+	
+## Misc
+	- https://leetcode.com/problems/valid-word/description/ -> ValidWord.java
