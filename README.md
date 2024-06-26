@@ -15,6 +15,10 @@
  
 ## Sliding Window
  - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/ -> BuySellStock.java
+ - https://leetcode.com/problems/count-vowel-substrings-of-a-string/description/ -> CountVowelSubString.java
  
 ## Binary Search
 	- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ -> MinElementInRotatedSortedArray.java
+
+## Linked List
+	- https://leetcode.com/problems/merge-two-sorted-lists/description/ -> MergeLinkedList.java
