@@ -25,6 +25,7 @@
 	
 ## Trees
 	- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/ -> LowestCommonAncestor.java
+	- https://leetcode.com/problems/validate-binary-search-tree/ -> ValidBST.java
 ### tree with BFS
 	- https://leetcode.com/problems/binary-tree-level-order-traversal/description/ -> LevelOrder.java
 ## Misc
