@@ -1,4 +1,4 @@
-package com.leetcode.arrays;
+package com.leetcode.trees;
 
 public class LowestCommonAncestor {
 	

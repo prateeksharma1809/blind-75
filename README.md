@@ -31,3 +31,4 @@
 	- https://leetcode.com/problems/binary-tree-level-order-traversal/description/ -> LevelOrder.java
 ## Misc
 	- https://leetcode.com/problems/valid-word/description/ -> ValidWord.java
+	- https://leetcode.com/problems/three-consecutive-odds/description -> ThreeConsecutiveOdds.java

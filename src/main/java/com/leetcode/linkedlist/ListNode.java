@@ -1,4 +1,4 @@
-package com.leetcode.arrays;
+package com.leetcode.linkedlist;
 
 public class ListNode {
 	int val;
