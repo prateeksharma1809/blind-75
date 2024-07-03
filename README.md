@@ -34,5 +34,6 @@
 ## Misc
 - [valid-word](https://leetcode.com/problems/valid-word/description/) -> ValidWord.java
 ## Daily Challenge
-- [three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds/description) -> ThreeConsecutiveOdds.java
-- [intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) -> Intersect.java
+- [three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds/description) -> ThreeConsecutiveOdds.java 
+- [intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) -> Intersect.java, intersect.py
+- [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) -> MinDist3Moves.java, min_diff_3_move.py
