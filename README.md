@@ -28,6 +28,7 @@
 - [validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/) -> ValidBST.java
 - [kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) -> KthSmallestBst.java
 - [construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) -> ContructBST.java
+- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) -> BinaryTreeMaxPath.java
 ### Tree with BFS
 - [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) -> LevelOrder.java
 ## Misc
