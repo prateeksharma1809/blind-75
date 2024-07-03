@@ -1,40 +1,40 @@
 # problems (Link -> Solution fileName)
 
 ## Arrays and Hashing
- - [Two Sum](https://leetcode.com/problems/two-sum/description/) -> TwoSum.java
+ - [Two Sum](https://leetcode.com/problems/two-sum/description/) -> [Java](src/main/java/com/leetcode/arrays/TwoSum.java)
 
- - [valid anagram](https://leetcode.com/problems/valid-anagram/description/) -> ValidAnagram.java
+ - [valid anagram](https://leetcode.com/problems/valid-anagram/description/) -> [ValidAnagram.java](src/main/java/com/leetcode/arrays/ValidAnagram.java)
  
- - [top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/)  -> TopKelements.java
+ - [top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/)  -> [TopKelements.java](src/main/java/com/leetcode/arrays/TopKelements.java)
 
 ## Stack
- - [valid parentheses](https://leetcode.com/problems/valid-parentheses/description/) -> ValidParentheses.java
+ - [valid parentheses](https://leetcode.com/problems/valid-parentheses/description/) -> [ValidParentheses.java](src/main/java/com/leetcode/arrays/ValidParentheses.java)
  
 ## Two Pointer
- - [valid palindrome](https://leetcode.com/problems/valid-palindrome/description/) -> ValidPalindrome.java
+ - [valid palindrome](https://leetcode.com/problems/valid-palindrome/description/) -> [ValidPalindrome.java](src/main/java/com/leetcode/arrays/ValidPalindrome.java)
  
 ## Sliding Window
- - [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) -> BuySellStock.java
- - [count-vowel-substrings-of-a-string](https://leetcode.com/problems/count-vowel-substrings-of-a-string/description/) -> CountVowelSubString.java
+ - [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) -> [BuySellStock.java](src/main/java/com/leetcode/arrays/BuySellStock.java)
+ - [count-vowel-substrings-of-a-string](https://leetcode.com/problems/count-vowel-substrings-of-a-string/description/) -> [CountVowelSubString.java](src/main/java/com/oa/CountVowelSubString.java)
  
 ## Binary Search
-- [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) -> MinElementInRotatedSortedArray.java
+- [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) -> [MinElementInRotatedSortedArray.java](src/main/java/com/leetcode/arrays/MinElementInRotatedSortedArray.java)
 
 ## Linked List
-- [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) -> MergeLinkedList.java
+- [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) -> [MergeLinkedList.java](src/main/java/com/leetcode/linkedlist/MergeLinkedList.java)
 	
 ## Trees
-- [lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) -> LowestCommonAncestor.java
-- [validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/) -> ValidBST.java
-- [kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) -> KthSmallestBst.java
+- [lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) -> [LowestCommonAncestor.java](src/main/java/com/leetcode/trees/LowestCommonAncestor.java)
+- [validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/) -> [ValidBST.java](src/main/java/com/leetcode/trees/ValidBST.java)
+- [kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) -> [KthSmallestBst.java](src/main/java/com/leetcode/trees/KthSmallestBst.java)
 - [construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) ->  [Java](src/main/java/com/leetcode/trees/ContructBST.java)
 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) ->  [Java](src/main/java/com/leetcode/trees/BinaryTreeMaxPath.java)
 - [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) ->[Python](python/serialize_deserialize_binary_tree.py)
 ### Tree with BFS
-- [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) -> LevelOrder.java
+- [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) -> [LevelOrder.java](src/main/java/com/leetcode/trees/LevelOrder.java)
 ## Misc
-- [valid-word](https://leetcode.com/problems/valid-word/description/) -> ValidWord.java
+- [valid-word](https://leetcode.com/problems/valid-word/description/) -> [Java](src/main/java/com/leetcode/arrays/ValidWord.java)
 ## Daily Challenge
-- [three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds/description) -> ThreeConsecutiveOdds.java 
-- [intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) -> Intersect.java, intersect.py
-- [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) -> MinDist3Moves.java, min_diff_3_move.py
+- [three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds/description) -> [ThreeConsecutiveOdds.java](src/main/java/dailyChallege/ThreeConsecutiveOdds.java) 
+- [intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) -> [Intersect.java](src/main/java/dailyChallege/Intersect.java), [intersect.py](python/intersect.py)
+- [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) ->[MinDist3Moves.java](src/main/java/dailyChallege/MinDist3Moves.java), [min_diff_3_move.py](python/min_diff_3_move.py)
