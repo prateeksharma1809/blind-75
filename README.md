@@ -39,3 +39,4 @@
 - [intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) -> [Intersect.java](src/main/java/dailyChallege/Intersect.java), [intersect.py](python/intersect.py)
 - [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) ->[MinDist3Moves.java](src/main/java/dailyChallege/MinDist3Moves.java), [min_diff_3_move.py](python/min_diff_3_move.py)
 - [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/) -> [Python](python/merge_nodes.py)
+-[2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/) -> [Python](python/min_critical_max_critical.py) [Java](src/main/java/dailyChallege/MinMaxCritical.java)
