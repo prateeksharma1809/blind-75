@@ -1,4 +1,4 @@
-# problems (Link -> Solution fileName)
+# problems (Link -> Solution)
 
 ## Arrays and Hashing
  - [Two Sum](https://leetcode.com/problems/two-sum/description/) -> [Java](src/main/java/com/leetcode/arrays/TwoSum.java)
@@ -19,9 +19,13 @@
  
 ## Binary Search
 - [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) -> [MinElementInRotatedSortedArray.java](src/main/java/com/leetcode/arrays/MinElementInRotatedSortedArray.java)
+- [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/solutions/5431136/simple-solution-without-using-heap-or-priority-queue/) -> [Python](python/median.py)
 
 ## Linked List
 - [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) -> [MergeLinkedList.java](src/main/java/com/leetcode/linkedlist/MergeLinkedList.java)
+- [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/) -> [Python](python/min_critical_max_critical.py) [Java](src/main/java/dailyChallege/MinMaxCritical.java)
+  ![beats 100%](image.png)
+- [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/) -> [Python](python/merge_nodes.py)
 	
 ## Trees
 - [lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) -> [LowestCommonAncestor.java](src/main/java/com/leetcode/trees/LowestCommonAncestor.java)
@@ -38,6 +42,5 @@
 - [three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds/description) -> [ThreeConsecutiveOdds.java](src/main/java/dailyChallege/ThreeConsecutiveOdds.java) 
 - [intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) -> [Intersect.java](src/main/java/dailyChallege/Intersect.java), [intersect.py](python/intersect.py)
 - [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) ->[MinDist3Moves.java](src/main/java/dailyChallege/MinDist3Moves.java), [min_diff_3_move.py](python/min_diff_3_move.py)
-- [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/) -> [Python](python/merge_nodes.py)
-- [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/) -> [Python](python/min_critical_max_critical.py) [Java](src/main/java/dailyChallege/MinMaxCritical.java)
-  ![beats 100%](image.png)
+- [2582. Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description) -> [Python](python/pillow.py), [Java](src/main/java/dailyChallege/Pillow.java)
+- [1518. Water Bottles](https://leetcode.com/problems/water-bottles/solutions/5431105/maximum-number-of-water-bottles-drunk-with-exchange-system) -> [Python](python/water_bottle.py), [Java](src/main/java/dailyChallege/WaterBoltle.java)
