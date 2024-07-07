@@ -36,6 +36,11 @@
 - [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) ->[Python](python/serialize_deserialize_binary_tree.py)
 ### Tree with BFS
 - [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) -> [LevelOrder.java](src/main/java/com/leetcode/trees/LevelOrder.java)
+
+## BackTracking/ Recursion
+- [39. Combination Sum](https://leetcode.com/problems/combination-sum/) -> [Python](python/combinations.py)
+
+
 ## Misc
 - [valid-word](https://leetcode.com/problems/valid-word/description/) -> [Java](src/main/java/com/leetcode/arrays/ValidWord.java)
 ## Daily Challenge
