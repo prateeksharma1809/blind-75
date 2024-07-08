@@ -39,6 +39,7 @@
 
 ## BackTracking/ Recursion
 - [39. Combination Sum](https://leetcode.com/problems/combination-sum/) -> [Python](python/combinations.py)
+- [79. Word Search](https://leetcode.com/problems/word-search/) -> [Python](python/word_search.py)
 
 
 ## Misc
