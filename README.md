@@ -45,6 +45,10 @@
 - [39. Combination Sum](https://leetcode.com/problems/combination-sum/) -> [Python](python/combinations.py)
 - [79. Word Search](https://leetcode.com/problems/word-search/) -> [Python](python/word_search.py)
 
+## Bit Manipulation:
+- [191. Number of 1 Bits](blind-75/python/no_of_1_bits.py) -> [Python](python/no_of_1_bits.py)
+### dynamic programing:
+- [338. Counting Bits](https://leetcode.com/problems/counting-bits/) -> [Python](python/counting_bits.py)
 
 ## Misc
 - [valid-word](https://leetcode.com/problems/valid-word/description/) -> [Java](src/main/java/com/leetcode/arrays/ValidWord.java)
