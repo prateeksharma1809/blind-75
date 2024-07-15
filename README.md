@@ -35,6 +35,7 @@
 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) ->  [Java](src/main/java/com/leetcode/trees/BinaryTreeMaxPath.java)
 - [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) ->[Python](python/serialize_deserialize_binary_tree.py)
 - [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) -> [Python](python/prefix_tries.py)
+- [212. Word Search II](https://leetcode.com/problems/word-search-ii/description/) -> [Python](python/word_search_2.py)
 ### Tree with BFS
 - [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) -> [LevelOrder.java](src/main/java/com/leetcode/trees/LevelOrder.java)
 
