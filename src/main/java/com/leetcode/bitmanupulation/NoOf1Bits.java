@@ -1,3 +1,5 @@
+package com.leetcode.bitmanupulation;
+
 class Solution {
     public int hammingWeight(int n) {
         int res = 0;

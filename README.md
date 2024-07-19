@@ -47,14 +47,27 @@
 
 ## Bit Manipulation:
 - [191. Number of 1 Bits](blind-75/python/no_of_1_bits.py) -> [Python](python/no_of_1_bits.py)
+- [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) -> [Java](src/main/java/com/leetcode/bitmanupulation/ReverseBits.java) [Python](python/reverse_bit.py)
 ### dynamic programing:
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/) -> [Python](python/counting_bits.py)
 
+## Math
+- [268. Missing Number](https://leetcode.com/problems/missing-number/description/)->[Python](python/missing_number.py) [Java](src/main/java/com/leetcode/math/MissingNumber.java)
+
 ## Misc
 - [valid-word](https://leetcode.com/problems/valid-word/description/) -> [Java](src/main/java/com/leetcode/arrays/ValidWord.java)
+
 ## Daily Challenge
 - [three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds/description) -> [ThreeConsecutiveOdds.java](src/main/java/dailyChallege/ThreeConsecutiveOdds.java) 
+
 - [intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) -> [Intersect.java](src/main/java/dailyChallege/Intersect.java), [intersect.py](python/intersect.py)
+
 - [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) ->[MinDist3Moves.java](src/main/java/dailyChallege/MinDist3Moves.java), [min_diff_3_move.py](python/min_diff_3_move.py)
+
 - [2582. Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description) -> [Python](python/pillow.py), [Java](src/main/java/dailyChallege/Pillow.java)
+
 - [1518. Water Bottles](https://leetcode.com/problems/water-bottles/solutions/5431105/maximum-number-of-water-bottles-drunk-with-exchange-system) -> [Python](python/water_bottle.py), [Java](src/main/java/dailyChallege/WaterBoltle.java)
+
+- [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) -> [Solution](https://leetcode.com/problems/delete-nodes-and-return-forest/solutions/5492742/time-and-space-on-complexity-solution/)
+
+- [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) -> [Solution](https://leetcode.com/problems/lucky-numbers-in-a-matrix/solutions/5502536/simple-solution-with-o-m-n-time-complexity/)
