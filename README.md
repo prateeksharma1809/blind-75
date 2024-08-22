@@ -41,7 +41,9 @@
 - [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) -> [LevelOrder.java](src/main/java/com/leetcode/trees/LevelOrder.java)
 
 ## Graph
+- [207. Course Schedule](https://leetcode.com/problems/course-schedule/solutions/5674833/top-sort-using-bfs/) -> [Python](python/courseSchedule.py)
 - [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/) -> [Python](python/alienDictionary.py)
+- [Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/) -> [Python](python/validTree.py)
 ## BackTracking/ Recursion
 - [39. Combination Sum](https://leetcode.com/problems/combination-sum/) -> [Python](python/combinations.py)
 - [79. Word Search](https://leetcode.com/problems/word-search/) -> [Python](python/word_search.py)
