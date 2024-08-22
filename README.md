@@ -24,7 +24,6 @@
 ## Linked List
 - [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) -> [MergeLinkedList.java](src/main/java/com/leetcode/linkedlist/MergeLinkedList.java)
 - [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/) -> [Python](python/min_critical_max_critical.py) [Java](src/main/java/dailyChallege/MinMaxCritical.java)
-  ![beats 100%](image.png)
 - [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/) -> [Python](python/merge_nodes.py)
 	
 ## Trees
