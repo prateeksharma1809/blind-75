@@ -53,6 +53,7 @@
 
 ## Math
 - [268. Missing Number](https://leetcode.com/problems/missing-number/description/)->[Python](python/missing_number.py) [Java](src/main/java/com/leetcode/math/MissingNumber.java)
+- [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/solutions/5631900/simulated-solution/)-> [Python](python/SpiralMatrix.py)
 
 ## Misc
 - [valid-word](https://leetcode.com/problems/valid-word/description/) -> [Java](src/main/java/com/leetcode/arrays/ValidWord.java)
