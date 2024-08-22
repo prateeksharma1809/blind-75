@@ -41,6 +41,8 @@
 ### Tree with BFS
 - [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) -> [LevelOrder.java](src/main/java/com/leetcode/trees/LevelOrder.java)
 
+## Graph
+- [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/) -> [Python](python/alienDictionary.py)
 ## BackTracking/ Recursion
 - [39. Combination Sum](https://leetcode.com/problems/combination-sum/) -> [Python](python/combinations.py)
 - [79. Word Search](https://leetcode.com/problems/word-search/) -> [Python](python/word_search.py)
