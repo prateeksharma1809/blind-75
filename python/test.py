@@ -1,40 +1,46 @@
+from collections import deque, defaultdict
 
-from collections import deque
+class Solution:
+    def foreignDictionary(self, words: List[str]) -> str:
+        # Initialize graph and in-degree
+        graph = defaultdict(set)
+        in_degree = defaultdict(int)
+        all_chars = set()
 
-class Solution(object):
-    def canFinish(self, numCourses, prerequisites):
-        """
-        :type numCourses: int
-        :type prerequisites: List[List[int]]
-        :rtype: bool
-        """
-        topSort = []
-        indegree = [0 for _ in range(numCourses)]
-        predict = {}
-        for course,pre in prerequisites:
-            indegree[course]+=1
-            predict[pre] = predict.get(pre,[])
-            predict[pre].append(course)
-            # predict[pre].append(course)
-        print(indegree, predict)
-        q=deque()
-        for i in range(numCourses):
-            if indegree[i]==0:
-                q.append(i)
-        print(indegree,q)
-        while q:
-            course = q.popleft()
-            print(course)
-            topSort.append(course)
-            dep = predict.get(course,[])
-            for d in dep:
-                indegree[d]-=1
-                if indegree[d]==0:
-                    q.append(d)
-                    
+        # Add all characters to the set
+        for word in words:
+            for char in word:
+                all_chars.add(char)
 
-        return len(topSort)==numCourses
+        # Build the graph
+        for i in range(len(words) - 1):
+            w1, w2 = words[i], words[i + 1]
+            min_length = min(len(w1), len(w2))
+            found_diff = False
+            for j in range(min_length):
+                if w1[j] != w2[j]:
+                    if w2[j] not in graph[w1[j]]:
+                        graph[w1[j]].add(w2[j])
+                        in_degree[w2[j]] += 1
+                    found_diff = True
+                    break
+            if not found_diff and len(w1) > len(w2):
+                return ""
+
+        # Topological sort using Kahn's Algorithm (BFS)
+        q = deque([c for c in all_chars if in_degree[c] == 0])
+        result = []
         
-
-prerequisites = [[1,0]]
-print(Solution().canFinish(2,prerequisites))
+        while q:
+            char = q.popleft()
+            result.append(char)
+            for neighbor in graph[char]:
+                in_degree[neighbor] -= 1
+                if in_degree[neighbor] == 0:
+                    q.append(neighbor)
+        
+        # Check if the topological sort is valid
+        if len(result) != len(all_chars):
+            return ""
+        
+        return "".join(result)
