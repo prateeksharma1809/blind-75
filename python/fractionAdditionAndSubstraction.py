@@ -30,30 +30,20 @@ class Solution(object):
                 den = den*10 + int(expression[i])
                 i+=1
             num_dinom_list.append((sign*num, den))
-        print(num_dinom_list)
+        # print(num_dinom_list)
         
         hcf = num_dinom_list[0][1]
         lcm = num_dinom_list[0][1]
         for i in range(1,len(num_dinom_list)):
             hcf = self.gcd(hcf,num_dinom_list[i][1])
             lcm = lcm*num_dinom_list[i][1]//hcf
-        print(hcf,lcm)
+        # print(hcf,lcm)
         init_num = 0
         for num,den in num_dinom_list:
             init_num+=(num*lcm//den)
-        print(init_num)
+        # print(init_num)
         divi = self.gcd(init_num,lcm)
-        print(divi)
+        # print(divi)
         init_num//=divi
         lcm//=divi
         return str(init_num)+'/'+str(lcm)
-
-
-
-
-
-
-s = Solution()
-print(s.gcd(1,2))
-expression = "-1/2+1/2+1/3"
-print(s.fractionAddition(expression))

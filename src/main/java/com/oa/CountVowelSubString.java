@@ -3,12 +3,12 @@ package com.oa;
 import java.util.Arrays;
 
 public class CountVowelSubString {
-	// private boolean isVowel(char c) {
-	// 	if(Arrays.asList('a','e','i','o','u').contains(c)) {
-	// 		return true;
-	// 	}
-	// 	return false;
-	// }
+	private boolean isVowel(char c) {
+		if(Arrays.asList('a','e','i','o','u').contains(c)) {
+			return true;
+		}
+		return false;
+	}
 	// https://leetcode.com/problems/count-vowel-substrings-of-a-string/
 	public int countVowelSubstrings(String word) {
 		int result=0;
