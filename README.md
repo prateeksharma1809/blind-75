@@ -46,9 +46,13 @@
 - [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/) -> [Python](python/alienDictionary.py)
 - [Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/) -> [Python](python/validTree.py)
 - [Count Connected Components](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) -> [Python](python/countConnectedComponents.py)
+
 ## BackTracking/ Recursion
 - [39. Combination Sum](https://leetcode.com/problems/combination-sum/) -> [Python](python/combinations.py)
 - [79. Word Search](https://leetcode.com/problems/word-search/) -> [Python](python/word_search.py)
+
+# Dynamic Programming
+- [198. House Robber](https://leetcode.com/problems/house-robber/solutions/5680118/1d-dynamic-programming-approach-beats-100/) ->  [Java](src/main/java/com/leetcode/dynamicProgramming/HouseRobber.java)
 
 ## Bit Manipulation:
 - [191. Number of 1 Bits](blind-75/python/no_of_1_bits.py) -> [Python](python/no_of_1_bits.py)
