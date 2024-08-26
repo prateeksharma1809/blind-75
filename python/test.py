@@ -1,22 +1,32 @@
 class Solution(object):
-    def lengthOfLIS(self, nums):
+    
+    def getRow(self, rowIndex):
         """
-        :type nums: List[int]
-        :rtype: int
+        :type rowIndex: int
+        :rtype: List[int]
         """
-        n=len(nums)
-        dp = [0 for _ in range(n+1)]
-        dp[1]=1
-        for i in range(1,len(nums)):
-            s=i-1
-            while s>0 and nums[s]>nums[i]:
-                s-=1
-            if nums[s]<nums[i]:
-                dp[i+1]= max(dp[i], 1+dp[s+1])
-            else:
-                dp[i+1]=max(dp[i],1+dp[s])
-        print(dp)
-        return dp[n]
+        prev_row = []
+        for i in range(1,rowIndex+1):
+            row = [1 for _ in range(i)]
+            if i>=3:
+                #logic to pick the previous row and then add the numbers 
+                for j in range(1,i-1):
+                    row[j] = prev_row[j-1]+prev_row[j]
+            prev_row=list(row)
+        return prev_row
+    def generate(self, numRows):
+        """
+        :type numRows: int
+        :rtype: List[List[int]]
+        """
+        res =[]
+        for i in range(1,numRows+1):
+            row = [1 for _ in range(i)]
+            if i>=3:
+                #logic to pick the previous row and then add the numbers 
+                for j in range(1,i-1):
+                    row[j] = res[-1][j-1]+res[-1][j]
+            res.append(row)
+        return res
 
-nums =[4,10,4,3,8,9]
-Solution().lengthOfLIS(nums)
+print(Solution().getRow(1))

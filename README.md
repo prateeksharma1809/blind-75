@@ -60,6 +60,8 @@
 - [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) -> [Java](src/main/java/com/leetcode/bitmanupulation/ReverseBits.java) [Python](python/reverse_bit.py)
 ### dynamic programing:
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/) -> [Python](python/counting_bits.py)
+- [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/solutions/5680629/1d-dynamic-programming/) -> [Python](python/LIS.py)
+- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/solutions/5695824/expand-outwards-approach/) -> [Python](python/longestPalindromSubstring.py)
 
 ## Math
 - [268. Missing Number](https://leetcode.com/problems/missing-number/description/)->[Python](python/missing_number.py) [Java](src/main/java/com/leetcode/math/MissingNumber.java)
