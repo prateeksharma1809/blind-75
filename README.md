@@ -72,6 +72,8 @@
 - [valid-word](https://leetcode.com/problems/valid-word/description/) -> [Java](src/main/java/com/leetcode/arrays/ValidWord.java)
 
 ## Daily Challenge
+- [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/solutions/5736594/robot-s-journey-in-a-grid-time-complexity-o-n-o-space-complexity-o-o/) -> [Python](python/RobotSim.py)
+
 - [three-consecutive-odds](https://leetcode.com/problems/three-consecutive-odds/description) -> [ThreeConsecutiveOdds.java](src/main/java/dailyChallege/ThreeConsecutiveOdds.java) 
 
 - [intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) -> [Intersect.java](src/main/java/dailyChallege/Intersect.java), [intersect.py](python/intersect.py)
