@@ -54,17 +54,22 @@
 # Dynamic Programming
 - [198. House Robber](https://leetcode.com/problems/house-robber/solutions/5680118/1d-dynamic-programming-approach-beats-100/) ->  [Java](src/main/java/com/leetcode/dynamicProgramming/HouseRobber.java)
 - [213. House Robber II](https://leetcode.com/problems/house-robber-ii/solutions/5680267/simple-1d-dynamic-programming-approach/) -> [Python](python/houseRobber2.py)
+- [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/solutions/5680629/1d-dynamic-programming/) -> [Python](python/LIS.py)
+- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/solutions/5695824/expand-outwards-approach/) -> [Python](python/longestPalindromSubstring.py)
+- [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/solutions/5695923/simple-2-pointer-approach/)-> [Python](python/noOfPalindromeSubstrings.py)
+- [322. Coin Change](https://leetcode.com/problems/coin-change/solutions/5695980/dynamic-programming-solution-with-explanation/) -> [Python](python/coinChange.py)
+ - [139. Word Break](https://leetcode.com/problems/word-break/description/) -> [Python](python/wordBreak.py)
+ - [62. Unique Paths](https://leetcode.com/problems/unique-paths/solutions/5743655/unique-paths-calculation-time-complexity-o-m-x-n-space-complexity-o-m-x-n/) -> [Python](python/uniquePaths.py)
+
+## Greedy
+ - [55. Jump Game]() -> [Python](python/JumpGame.py)
 
 ## Bit Manipulation:
 - [191. Number of 1 Bits](blind-75/python/no_of_1_bits.py) -> [Python](python/no_of_1_bits.py)
 - [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) -> [Java](src/main/java/com/leetcode/bitmanupulation/ReverseBits.java) [Python](python/reverse_bit.py)
 ### dynamic programing:
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/) -> [Python](python/counting_bits.py)
-- [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/solutions/5680629/1d-dynamic-programming/) -> [Python](python/LIS.py)
-- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/solutions/5695824/expand-outwards-approach/) -> [Python](python/longestPalindromSubstring.py)
-- [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/solutions/5695923/simple-2-pointer-approach/)-> [Python](python/noOfPalindromeSubstrings.py)
-- [322. Coin Change](https://leetcode.com/problems/coin-change/solutions/5695980/dynamic-programming-solution-with-explanation/) -> [Python](python/coinChange.py)
- - [139. Word Break](https://leetcode.com/problems/word-break/description/) -> [Python](python/wordBreak.py)
+
 ## Math
 - [268. Missing Number](https://leetcode.com/problems/missing-number/description/)->[Python](python/missing_number.py) [Java](src/main/java/com/leetcode/math/MissingNumber.java)
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/solutions/5631900/simulated-solution/)-> [Python](python/SpiralMatrix.py)
