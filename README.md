@@ -64,6 +64,7 @@
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/solutions/5695824/expand-outwards-approach/) -> [Python](python/longestPalindromSubstring.py)
 - [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/solutions/5695923/simple-2-pointer-approach/)-> [Python](python/noOfPalindromeSubstrings.py)
 - [322. Coin Change](https://leetcode.com/problems/coin-change/solutions/5695980/dynamic-programming-solution-with-explanation/) -> [Python](python/coinChange.py)
+ - [139. Word Break](https://leetcode.com/problems/word-break/description/) -> [Python](python/wordBreak.py)
 ## Math
 - [268. Missing Number](https://leetcode.com/problems/missing-number/description/)->[Python](python/missing_number.py) [Java](src/main/java/com/leetcode/math/MissingNumber.java)
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/solutions/5631900/simulated-solution/)-> [Python](python/SpiralMatrix.py)
