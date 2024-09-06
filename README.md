@@ -62,7 +62,7 @@
  - [62. Unique Paths](https://leetcode.com/problems/unique-paths/solutions/5743655/unique-paths-calculation-time-complexity-o-m-x-n-space-complexity-o-m-x-n/) -> [Python](python/uniquePaths.py)
 
 ## Greedy
- - [55. Jump Game]() -> [Python](python/JumpGame.py)
+ - [55. Jump Game](https://leetcode.com/problems/jump-game/description/) -> [Python](python/JumpGame.py)
 
 ## Bit Manipulation:
 - [191. Number of 1 Bits](blind-75/python/no_of_1_bits.py) -> [Python](python/no_of_1_bits.py)
@@ -70,10 +70,15 @@
 ### dynamic programing:
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/) -> [Python](python/counting_bits.py)
 
+## Interval
+ - [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/)-> [Python](python/InsertInterval.py)
+ - [Meeting Schedule II](https://leetcode.com/problems/meeting-rooms-ii/description/)-> [Python](python/meetingRoomII.py)
+
 ## Math
 - [268. Missing Number](https://leetcode.com/problems/missing-number/description/)->[Python](python/missing_number.py) [Java](src/main/java/com/leetcode/math/MissingNumber.java)
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/solutions/5631900/simulated-solution/)-> [Python](python/SpiralMatrix.py)
 - [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/solutions/5676824/simple-set-solution/) ->[Python](python/setMatrixZero.py)
+- [48. Rotate Image](https://leetcode.com/problems/rotate-image/solutions/5703098/in-place-matrix-rotation-time-complexity-o-n-2-space-complexity-o-1/)-> [Python](python/rotateMatrix.py)
 ## Misc
 - [valid-word](https://leetcode.com/problems/valid-word/description/) -> [Java](src/main/java/com/leetcode/arrays/ValidWord.java)
 
