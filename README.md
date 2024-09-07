@@ -1,11 +1,13 @@
 # problems (Link -> Solution)
 
 ## Arrays and Hashing
+ - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/solutions/5748482/contains-duplicate-time-complexity-o-n-space-complexity-o-n/) -> [Python](python/containsDuplicate.py)
+  - [valid anagram](https://leetcode.com/problems/valid-anagram/description/) -> [ValidAnagram.java](src/main/java/com/leetcode/arrays/ValidAnagram.java)
  - [Two Sum](https://leetcode.com/problems/two-sum/description/) -> [Java](src/main/java/com/leetcode/arrays/TwoSum.java)
-
- - [valid anagram](https://leetcode.com/problems/valid-anagram/description/) -> [ValidAnagram.java](src/main/java/com/leetcode/arrays/ValidAnagram.java)
- 
- - [top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/)  -> [TopKelements.java](src/main/java/com/leetcode/arrays/TopKelements.java)
+ -[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/solutions/5748493/group-anagrams-time-complexity-o-n-k-space-complexity-o-n-k/) -> [Python](python/groupAnagrams.py)
+ - [top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/)  -> [TopKelements.java](src/main/java/com/leetcode/arrays/TopKelements.java), [Python](python/topKFrequentElement.py)
+  - [String Encode and Decode](https://leetcode.com/problems/encode-and-decode-strings/description/) ->[Python](python/encodeAndDecode.py)
+  
 
 ## Stack
  - [valid parentheses](https://leetcode.com/problems/valid-parentheses/description/) -> [ValidParentheses.java](src/main/java/com/leetcode/arrays/ValidParentheses.java)
