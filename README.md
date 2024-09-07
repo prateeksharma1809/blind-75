@@ -7,7 +7,7 @@
  -[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/solutions/5748493/group-anagrams-time-complexity-o-n-k-space-complexity-o-n-k/) -> [Python](python/groupAnagrams.py)
  - [top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/)  -> [TopKelements.java](src/main/java/com/leetcode/arrays/TopKelements.java), [Python](python/topKFrequentElement.py)
   - [String Encode and Decode](https://leetcode.com/problems/encode-and-decode-strings/description/) ->[Python](python/encodeAndDecode.py)
-  
+  - [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) -> [Python](python/productOfArrayExceptSelf.py)
 
 ## Stack
  - [valid parentheses](https://leetcode.com/problems/valid-parentheses/description/) -> [ValidParentheses.java](src/main/java/com/leetcode/arrays/ValidParentheses.java)
@@ -102,3 +102,4 @@
 - [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) -> [Solution](https://leetcode.com/problems/lucky-numbers-in-a-matrix/solutions/5502536/simple-solution-with-o-m-n-time-complexity/)
 
 - [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/solutions/5679577/simple-math-solution-time-o-n/) -> [Python](python/fractionAdditionAndSubstraction.py)
+ -[1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/solutions/5750815/linked-list-in-binary-tree-time-complexity-o-n-m-space-complexity-o-h/) -> [Python](python/linkedListInsideTree.py)
